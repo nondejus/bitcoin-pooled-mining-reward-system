@@ -1,0 +1,1 @@
+# bitcoin-pooled-mining-reward-system
